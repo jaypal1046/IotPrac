@@ -1,0 +1,4 @@
+step 1: goto FatherBot and create a new bot 
+step 2: give name for that bot and take a token 
+step 3: check token working fine or not by goto api.telegram.org/bot<token>/getMe
+step 4: take a python code and add your token on that.
